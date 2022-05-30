@@ -1,7 +1,4 @@
 Cold and dry but I like the red hue.
 Moons look a bit misshapen.
-<<<<<<< HEAD
 Mars isn't actually a *real* planet.
-=======
 Might have aliens on it.
->>>>>>> a852d99a7dedecd8e80bd6393943dea1c1f7cdcc
